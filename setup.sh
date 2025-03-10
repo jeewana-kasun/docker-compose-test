@@ -4,6 +4,9 @@
 
 ### 1.1. Install Git
 
+apt update
+apt install git
+
 ### 1.2. Clone Repository
 
 ### 1.3. Install Docker
