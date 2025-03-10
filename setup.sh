@@ -9,7 +9,11 @@ apt install git
 
 ### 1.2. Clone Repository
 
+git clone https://github.com/jeewana-kasun/docker-compose-test.git
+
 ### 1.3. Install Docker
+
+apt install docker
 
 ### 1.4. Start Docker
 
